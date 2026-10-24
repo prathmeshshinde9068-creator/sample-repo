@@ -1,0 +1,3 @@
+Hi everyone!
+
+We are now working with Git and GitHub!
